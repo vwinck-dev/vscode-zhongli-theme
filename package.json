@@ -1,0 +1,72 @@
+{
+    "name": "rex-lapis-theme",
+    "version": "1.0.0",
+    "main": "./themes/Rex-Lapis-Theme.json",
+    "displayName": "Zhongli's Geo Realm Theme",
+    "description": "Zhongli's Geo Archon theme for VS Code - Combines the elegance of Liyue with modern functionality. Earthy palette with amber golds, perfect for developers who love Genshin Impact. A sophisticated dark theme for focused coding.",
+    "publisher": "vwinck-dev",
+    "engines": {
+        "vscode": "^1.75.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zhongli's Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Rex Lapis-color-theme.json"
+            }
+        ]
+    },
+    "license": "GPL-3.0-or-later",
+    "icon": "images/icon.png",
+    "keywords": [
+        "genshin impact",
+        "zhongli",
+        "geo archon",
+        "dark theme",
+        "amber theme",
+        "vscode theme",
+        "code theme",
+        "developer theme",
+        "anime theme",
+        "earthy tones",
+        "golden theme",
+        "programming theme",
+        "mihoyo theme",
+        "hoyoverse",
+        "character theme",
+        "arconte geo",
+        "liyue theme",
+        "deux auri",
+        "morax",
+        "code aesthetics",
+        "geossábia",
+        "minimalist coding",
+        "coder palette",
+        "anime coding",
+        "gaming theme",
+        "otaku developer",
+        "japanese theme",
+        "code elegance",
+        "contrast theme",
+        "retro code",
+        "warm dark",
+        "vaco mundo",
+        "coding style",
+        "ui theme",
+        "custom theme",
+        "gamer dev",
+        "otaku programmer",
+        "geometric design"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vwinck-dev/vscode-zhongli-theme"
+    },
+    "dependencies": {
+        "rex-lapis-theme": "file:"
+    }
+}
