@@ -1,7 +1,6 @@
 {
     "name": "rex-lapis-theme",
     "version": "1.0.0",
-    "main": "./themes/Rex-Lapis-Theme.json",
     "displayName": "Zhongli's Geo Realm Theme",
     "description": "Zhongli's Geo Archon theme for VS Code - Combines the elegance of Liyue with modern functionality. Earthy palette with amber golds, perfect for developers who love Genshin Impact. A sophisticated dark theme for focused coding.",
     "publisher": "vwinck-dev",
